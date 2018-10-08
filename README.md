@@ -1,6 +1,8 @@
 Test First Ruby -- RSpec 3 Edition
 ==========
 
+TRAVAIL DE GEORGES ATALLA ET CAMILLE DUQUENNE
+
 ### Set up instructions
 
 1. Fork this repo
